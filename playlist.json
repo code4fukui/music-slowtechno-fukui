@@ -1,0 +1,2888 @@
+{
+  "entity_type": "playlist_schema",
+  "id": "1f0f31ae-87b3-438a-ac53-240320b1477e",
+  "name": "SlowTechno FUKUI",
+  "playlist_clips": [
+    {
+      "clip": {
+        "status": "complete",
+        "title": "ソースカツドンの街",
+        "play_count": 1,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "is_verified": false,
+        "id": "fb053388-d70f-401e-ab8e-3f9a6b592b32",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "audio/fb053388-d70f-401e-ab8e-3f9a6b592b32.mp3",
+        "image_url": "image/image_fb053388-d70f-401e-ab8e-3f9a6b592b32.jpeg",
+        "image_large_url": "image_large/image_large_fb053388-d70f-401e-ab8e-3f9a6b592b32.jpeg",
+        "major_model_version": "v5.5",
+        "model_name": "chirp-fenix",
+        "metadata": {
+          "tags": "Slow techno with a restrained four-on-the-floor pulse, dry kick and soft clap locked to a patient groove; verse stays sparse with murmured Japanese lead, short bass pulses, and filtered bell ticks, pre-chorus opens with rising noise and echo tails, chorus lands wider with layered unison doubles and chant-like backing repeats. Add reverse swells into each drop, tiny click percussion between phrases, and a deep sub bloom on the hook. Mix is dark, clean, and spacious, with a cool nocturnal sheen., techno, slow",
+          "prompt": "[Verse 1]\\n朝の空気 きりり\\n駅前を まっすぐ歩く\\n衣の音が 先に来る\\n今日の腹は もう決まる\\n\\n皿の上で かさねて\\n甘い香りが ほどけてく\\n一切れずつ 夢中で\\n言葉より 先に笑う\\n\\n[Pre-Chorus]\\n静かな道を 抜けて\\n胸の中が ざわめく\\n遠くじゃなくて ここにある\\nうまいって ただそれだけ\\n\\n[Chorus]\\nフクイといえばソースカツドン\\nフクイといえばソースカツドン\\nひと口で ふっとほどける\\nこの街の まんなかで\\n\\nフクイといえばソースカツドン\\nフクイといえばソースカツドン\\n今日もまた 迷わず行く\\nこの味に まかせて\\n\\n[Verse 2]\\n昼の光が まぶしくて\\nソースの粒が 光るよう\\n箸で持ち上げる たびに\\n気分が少し 上向く\\n\\n駅のベンチで ひと息\\n紙の包みを 開けるたび\\nだれかの記憶 みたいに\\nやさしく濃い その匂い\\n\\n[Pre-Chorus]\\n派手じゃなくても\\nちゃんと残る\\n口の中で\\nずっと踊る\\n\\n[Chorus]\\nフクイといえばソースカツドン\\nフクイといえばソースカツドン\\nひと口で ふっとほどける\\nこの街の まんなかで\\n\\nフクイといえばソースカツドン\\nフクイといえばソースカツドン\\n今日もまた 迷わず行く\\nこの味に まかせて\\n\\n[Bridge]\\nしずかに深く\\n夜へ沈んで\\n同じひと口\\nまた思い出す\\n\\n遠回りでも\\nこれでいい\\nフクイの鼓動\\nここにある\\n\\n[Chorus]\\nフクイといえばソースカツドン\\nフクイといえばソースカツドン\\nひと口で ふっとほどける\\nこの街の まんなかで\\n\\nフクイといえばソースカツドン\\nフクイといえばソースカツドン\\n今日もまた 迷わず行く\\nこの味に まかせて",
+          "gpt_description_prompt": "フクイといえばソースカツドン,slow techno",
+          "type": "gen",
+          "duration": 231.72,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          },
+          "is_mumble": false
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "avatar_image/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-04-24T11:28:50.775Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "techno, minimalist techno, dark electronic",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 1,
+        "action_config": {
+          "actions": [
+            {
+              "action_type": "add_to_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "like_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "share_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "dislike_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "report_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remove_from_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_extend",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_cover",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_reuse_style",
+              "disabled": false,
+              "visible": true
+            }
+          ]
+        }
+      },
+      "relative_index": 0
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "ソースカツドンの街",
+        "play_count": 0,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "is_verified": false,
+        "id": "197793b9-03ad-459b-984e-bb042255b70c",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "audio/197793b9-03ad-459b-984e-bb042255b70c.mp3",
+        "image_url": "image/image_197793b9-03ad-459b-984e-bb042255b70c.jpeg",
+        "image_large_url": "image_large/image_large_197793b9-03ad-459b-984e-bb042255b70c.jpeg",
+        "major_model_version": "v5.5",
+        "model_name": "chirp-fenix",
+        "metadata": {
+          "tags": "Slow techno with a restrained four-on-the-floor pulse, dry kick and soft clap locked to a patient groove; verse stays sparse with murmured Japanese lead, short bass pulses, and filtered bell ticks, pre-chorus opens with rising noise and echo tails, chorus lands wider with layered unison doubles and chant-like backing repeats. Add reverse swells into each drop, tiny click percussion between phrases, and a deep sub bloom on the hook. Mix is dark, clean, and spacious, with a cool nocturnal sheen., techno, slow",
+          "prompt": "[Verse 1]\\n朝の空気 きりり\\n駅前を まっすぐ歩く\\n衣の音が 先に来る\\n今日の腹は もう決まる\\n\\n皿の上で かさねて\\n甘い香りが ほどけてく\\n一切れずつ 夢中で\\n言葉より 先に笑う\\n\\n[Pre-Chorus]\\n静かな道を 抜けて\\n胸の中が ざわめく\\n遠くじゃなくて ここにある\\nうまいって ただそれだけ\\n\\n[Chorus]\\nフクイといえばソースカツドン\\nフクイといえばソースカツドン\\nひと口で ふっとほどける\\nこの街の まんなかで\\n\\nフクイといえばソースカツドン\\nフクイといえばソースカツドン\\n今日もまた 迷わず行く\\nこの味に まかせて\\n\\n[Verse 2]\\n昼の光が まぶしくて\\nソースの粒が 光るよう\\n箸で持ち上げる たびに\\n気分が少し 上向く\\n\\n駅のベンチで ひと息\\n紙の包みを 開けるたび\\nだれかの記憶 みたいに\\nやさしく濃い その匂い\\n\\n[Pre-Chorus]\\n派手じゃなくても\\nちゃんと残る\\n口の中で\\nずっと踊る\\n\\n[Chorus]\\nフクイといえばソースカツドン\\nフクイといえばソースカツドン\\nひと口で ふっとほどける\\nこの街の まんなかで\\n\\nフクイといえばソースカツドン\\nフクイといえばソースカツドン\\n今日もまた 迷わず行く\\nこの味に まかせて\\n\\n[Bridge]\\nしずかに深く\\n夜へ沈んで\\n同じひと口\\nまた思い出す\\n\\n遠回りでも\\nこれでいい\\nフクイの鼓動\\nここにある\\n\\n[Chorus]\\nフクイといえばソースカツドン\\nフクイといえばソースカツドン\\nひと口で ふっとほどける\\nこの街の まんなかで\\n\\nフクイといえばソースカツドン\\nフクイといえばソースカツドン\\n今日もまた 迷わず行く\\nこの味に まかせて",
+          "gpt_description_prompt": "フクイといえばソースカツドン,slow techno",
+          "type": "gen",
+          "duration": 231.96,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          },
+          "is_mumble": false
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "avatar_image/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-04-24T11:28:50.774Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "techno, minimalist techno, dark electronic",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 0,
+        "action_config": {
+          "actions": [
+            {
+              "action_type": "add_to_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "like_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "share_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "dislike_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "report_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remove_from_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_extend",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_cover",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_reuse_style",
+              "disabled": false,
+              "visible": true
+            }
+          ]
+        }
+      },
+      "relative_index": 1
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "和紙のまちイマダテ",
+        "play_count": 1,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "is_verified": false,
+        "id": "75c0c337-fe21-4c57-965d-5d35a9b54f1c",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "audio/75c0c337-fe21-4c57-965d-5d35a9b54f1c.mp3",
+        "image_url": "image/image_75c0c337-fe21-4c57-965d-5d35a9b54f1c.jpeg",
+        "image_large_url": "image_large/image_large_75c0c337-fe21-4c57-965d-5d35a9b54f1c.jpeg",
+        "major_model_version": "v5.5",
+        "model_name": "chirp-fenix",
+        "metadata": {
+          "tags": "Slow techno with a steady pulse, muted kick on the floor, brushed clap ghosts, and a looping synth motif that slowly phases like paper fibers in water; verse stays stripped to kick, sub, and a tiny ticking pulse, pre-chorus opens with filtered pads and rising white-noise swells, chorus widens with a warm saw lead and stacked chant doubles. Breath-close female vocal, lightly doubled in verses, fuller harmony lifts on the hook, with tape flutter, vinyl texture, and subtle delay throws. Mix is intimate, hypnotic, and cleanly spacious., slow, techno",
+          "prompt": "[Verse 1]\\n古い町角\\n指先でなぞる\\n水のにおい\\n白い繊維の夜\\n折るたびに\\n音がやさしい\\n\\n[Pre-Chorus]\\nゆっくり　ほどけて\\nゆっくり　つながる\\n手のひらの中で\\nかたちが変わる\\n\\n[Chorus]\\n和紙のまちイマダテ\\n和紙のまちイマダテ\\nほどけて　また結ぶ\\nわたしを包んで\\n和紙のまちイマダテ\\n和紙のまちイマダテ\\n静かな熱だけ\\n胸に残して\\n\\n[Verse 2]\\n川の水面\\n光をすくって\\nひとつひとつ\\n紙になる前の\\n息づかいまで\\n覚えていたい\\n\\n[Pre-Chorus]\\nゆっくり　ほどけて\\nゆっくり　つながる\\n透けるくらいの\\nやわらかな強さ\\n\\n[Chorus]\\n和紙のまちイマダテ\\n和紙のまちイマダテ\\nほどけて　また結ぶ\\nわたしを包んで\\n和紙のまちイマダテ\\n和紙のまちイマダテ\\n静かな熱だけ\\n胸に残して\\n\\n[Bridge]\\n手を濡らして\\n名前をなぞる\\n消えそうで\\n消えないもの\\n薄い光が\\n朝まで続く\\n\\n[Chorus]\\n和紙のまちイマダテ\\n和紙のまちイマダテ\\nほどけて　また結ぶ\\nわたしを包んで\\n和紙のまちイマダテ\\n和紙のまちイマダテ\\n静かな熱だけ\\n胸に残して",
+          "gpt_description_prompt": "和紙のまちイマダテ,slow techno",
+          "type": "gen",
+          "duration": 238.12,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          },
+          "is_mumble": false
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "avatar_image/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-04-24T10:33:33.894Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "slow techno, minimal techno, hypnotic electronic",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 1,
+        "action_config": {
+          "actions": [
+            {
+              "action_type": "add_to_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "like_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "share_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "dislike_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "report_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remove_from_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_extend",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_cover",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_reuse_style",
+              "disabled": false,
+              "visible": true
+            }
+          ]
+        }
+      },
+      "relative_index": 2
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "和紙のまちイマダテ",
+        "play_count": 1,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "is_verified": false,
+        "id": "51272bf5-dd8b-44b9-b562-cbd13c9d0e56",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "audio/51272bf5-dd8b-44b9-b562-cbd13c9d0e56.mp3",
+        "image_url": "image/image_51272bf5-dd8b-44b9-b562-cbd13c9d0e56.jpeg",
+        "image_large_url": "image_large/image_large_51272bf5-dd8b-44b9-b562-cbd13c9d0e56.jpeg",
+        "major_model_version": "v5.5",
+        "model_name": "chirp-fenix",
+        "metadata": {
+          "tags": "Slow techno with a steady pulse, muted kick on the floor, brushed clap ghosts, and a looping synth motif that slowly phases like paper fibers in water; verse stays stripped to kick, sub, and a tiny ticking pulse, pre-chorus opens with filtered pads and rising white-noise swells, chorus widens with a warm saw lead and stacked chant doubles. Breath-close female vocal, lightly doubled in verses, fuller harmony lifts on the hook, with tape flutter, vinyl texture, and subtle delay throws. Mix is intimate, hypnotic, and cleanly spacious., slow, techno",
+          "prompt": "[Verse 1]\\n古い町角\\n指先でなぞる\\n水のにおい\\n白い繊維の夜\\n折るたびに\\n音がやさしい\\n\\n[Pre-Chorus]\\nゆっくり　ほどけて\\nゆっくり　つながる\\n手のひらの中で\\nかたちが変わる\\n\\n[Chorus]\\n和紙のまちイマダテ\\n和紙のまちイマダテ\\nほどけて　また結ぶ\\nわたしを包んで\\n和紙のまちイマダテ\\n和紙のまちイマダテ\\n静かな熱だけ\\n胸に残して\\n\\n[Verse 2]\\n川の水面\\n光をすくって\\nひとつひとつ\\n紙になる前の\\n息づかいまで\\n覚えていたい\\n\\n[Pre-Chorus]\\nゆっくり　ほどけて\\nゆっくり　つながる\\n透けるくらいの\\nやわらかな強さ\\n\\n[Chorus]\\n和紙のまちイマダテ\\n和紙のまちイマダテ\\nほどけて　また結ぶ\\nわたしを包んで\\n和紙のまちイマダテ\\n和紙のまちイマダテ\\n静かな熱だけ\\n胸に残して\\n\\n[Bridge]\\n手を濡らして\\n名前をなぞる\\n消えそうで\\n消えないもの\\n薄い光が\\n朝まで続く\\n\\n[Chorus]\\n和紙のまちイマダテ\\n和紙のまちイマダテ\\nほどけて　また結ぶ\\nわたしを包んで\\n和紙のまちイマダテ\\n和紙のまちイマダテ\\n静かな熱だけ\\n胸に残して",
+          "gpt_description_prompt": "和紙のまちイマダテ,slow techno",
+          "type": "gen",
+          "duration": 247.96,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          },
+          "is_mumble": false
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "avatar_image/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-04-24T10:33:33.894Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "slow techno, minimal techno, hypnotic electronic",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 0,
+        "action_config": {
+          "actions": [
+            {
+              "action_type": "add_to_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "like_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "share_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "dislike_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "report_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remove_from_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_extend",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_cover",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_reuse_style",
+              "disabled": false,
+              "visible": true
+            }
+          ]
+        }
+      },
+      "relative_index": 3
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "タケフの火花",
+        "play_count": 1,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "is_verified": false,
+        "id": "9fda7e62-1060-444f-9db2-46583d793c19",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "audio/9fda7e62-1060-444f-9db2-46583d793c19.mp3",
+        "image_url": "image/image_9fda7e62-1060-444f-9db2-46583d793c19.jpeg",
+        "image_large_url": "image_large/image_large_9fda7e62-1060-444f-9db2-46583d793c19.jpeg",
+        "major_model_version": "v5.5",
+        "model_name": "chirp-fenix",
+        "metadata": {
+          "tags": "Slow techno with a steady half-time pulse, clipped kick and dry hand percussion, repeating steel-bell synth motif, and a low rolling bass that breathes on the downbeat. Verse stays sparse with close-mic vocal and short repeats; pre-chorus opens with filtered noise and rising toms; chorus locks into a chant-like loop with stacked doubles. Add metal scrapes, reversed swells, and a brief tape-stop before the final lift. Dark, clean, and hypnotic mix., techno, slow",
+          "prompt": "[Verse 1]\\n朝の水で\\n刃を冷やす\\n指に残る\\n鉄の匂い\\n\\n火花ひとつ\\n目を細める\\n町の奥で\\n今日が鳴る\\n\\n[Pre-Chorus]\\nひと打ちずつ\\n形になる\\n黙ったまま\\n熱が走る\\n\\nひと打ちずつ\\n近づいてく\\n名前のない\\n朝のかたち\\n\\n[Chorus]\\n打刃物のまちタケフ\\n打刃物のまちタケフ\\n手の中で光る\\nこわいほどきれい\\n\\n打刃物のまちタケフ\\n打刃物のまちタケフ\\n研ぎ澄ますたびに\\nわたしも変わる\\n\\n[Verse 2]\\n古い工場\\n黒い床\\n親の背中\\n越えてきた\\n\\nひびく音に\\n耳をすませ\\nまだ見ぬ線を\\nなぞってる\\n\\n[Pre-Chorus]\\nひと打ちずつ\\n形になる\\n息を止めて\\n見つめてる\\n\\nひと打ちずつ\\n近づいてく\\n切れるほどに\\nまっすぐに\\n\\n[Chorus]\\n打刃物のまちタケフ\\n打刃物のまちタケフ\\n手の中で光る\\nこわいほどきれい\\n\\n打刃物のまちタケフ\\n打刃物のまちタケフ\\n研ぎ澄ますたびに\\nわたしも変わる\\n\\n[Bridge]\\n静かな夜に\\n火が残る\\n曲がらないで\\n進むだけ\\n\\n誰のためでも\\nなくじゃない\\nわたしのために\\n磨いてく\\n\\n[Final Chorus]\\n打刃物のまちタケフ\\n打刃物のまちタケフ\\n手の中で光る\\nこわいほどきれい\\n\\n打刃物のまちタケフ\\n打刃物のまちタケフ\\n研ぎ澄ますたびに\\nわたしも変わる",
+          "gpt_description_prompt": "打刃物のまちタケフ,slow techno",
+          "type": "gen",
+          "duration": 229.2,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          },
+          "is_mumble": false
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "avatar_image/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-04-24T10:33:22.350Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "techno, minimalist, hypnotic",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 1,
+        "action_config": {
+          "actions": [
+            {
+              "action_type": "add_to_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "like_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "share_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "dislike_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "report_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remove_from_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_extend",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_cover",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_reuse_style",
+              "disabled": false,
+              "visible": true
+            }
+          ]
+        }
+      },
+      "relative_index": 4
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "タケフの火花",
+        "play_count": 1,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "is_verified": false,
+        "id": "5a4a1990-7cbb-461e-bcbd-dc14c6b9d308",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "audio/5a4a1990-7cbb-461e-bcbd-dc14c6b9d308.mp3",
+        "image_url": "image/image_5a4a1990-7cbb-461e-bcbd-dc14c6b9d308.jpeg",
+        "image_large_url": "image_large/image_large_5a4a1990-7cbb-461e-bcbd-dc14c6b9d308.jpeg",
+        "major_model_version": "v5.5",
+        "model_name": "chirp-fenix",
+        "metadata": {
+          "tags": "Slow techno with a steady half-time pulse, clipped kick and dry hand percussion, repeating steel-bell synth motif, and a low rolling bass that breathes on the downbeat. Verse stays sparse with close-mic vocal and short repeats; pre-chorus opens with filtered noise and rising toms; chorus locks into a chant-like loop with stacked doubles. Add metal scrapes, reversed swells, and a brief tape-stop before the final lift. Dark, clean, and hypnotic mix., techno, slow",
+          "prompt": "[Verse 1]\\n朝の水で\\n刃を冷やす\\n指に残る\\n鉄の匂い\\n\\n火花ひとつ\\n目を細める\\n町の奥で\\n今日が鳴る\\n\\n[Pre-Chorus]\\nひと打ちずつ\\n形になる\\n黙ったまま\\n熱が走る\\n\\nひと打ちずつ\\n近づいてく\\n名前のない\\n朝のかたち\\n\\n[Chorus]\\n打刃物のまちタケフ\\n打刃物のまちタケフ\\n手の中で光る\\nこわいほどきれい\\n\\n打刃物のまちタケフ\\n打刃物のまちタケフ\\n研ぎ澄ますたびに\\nわたしも変わる\\n\\n[Verse 2]\\n古い工場\\n黒い床\\n親の背中\\n越えてきた\\n\\nひびく音に\\n耳をすませ\\nまだ見ぬ線を\\nなぞってる\\n\\n[Pre-Chorus]\\nひと打ちずつ\\n形になる\\n息を止めて\\n見つめてる\\n\\nひと打ちずつ\\n近づいてく\\n切れるほどに\\nまっすぐに\\n\\n[Chorus]\\n打刃物のまちタケフ\\n打刃物のまちタケフ\\n手の中で光る\\nこわいほどきれい\\n\\n打刃物のまちタケフ\\n打刃物のまちタケフ\\n研ぎ澄ますたびに\\nわたしも変わる\\n\\n[Bridge]\\n静かな夜に\\n火が残る\\n曲がらないで\\n進むだけ\\n\\n誰のためでも\\nなくじゃない\\nわたしのために\\n磨いてく\\n\\n[Final Chorus]\\n打刃物のまちタケフ\\n打刃物のまちタケフ\\n手の中で光る\\nこわいほどきれい\\n\\n打刃物のまちタケフ\\n打刃物のまちタケフ\\n研ぎ澄ますたびに\\nわたしも変わる",
+          "gpt_description_prompt": "打刃物のまちタケフ,slow techno",
+          "type": "gen",
+          "duration": 237.88,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          },
+          "is_mumble": false
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "avatar_image/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-04-24T10:33:22.350Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "techno, minimalist, hypnotic",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 0,
+        "action_config": {
+          "actions": [
+            {
+              "action_type": "add_to_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "like_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "share_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "dislike_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "report_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remove_from_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_extend",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_cover",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_reuse_style",
+              "disabled": false,
+              "visible": true
+            }
+          ]
+        }
+      },
+      "relative_index": 5
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "漆器のまちカワダ",
+        "play_count": 1,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "is_verified": false,
+        "id": "818e8a3c-c620-40ed-8d54-0a8f012deb4b",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "audio/818e8a3c-c620-40ed-8d54-0a8f012deb4b.mp3",
+        "image_url": "image/image_818e8a3c-c620-40ed-8d54-0a8f012deb4b.jpeg",
+        "image_large_url": "image_large/image_large_818e8a3c-c620-40ed-8d54-0a8f012deb4b.jpeg",
+        "major_model_version": "v5.5",
+        "model_name": "chirp-fenix",
+        "metadata": {
+          "tags": "Slow techno with a patient four-on-the-floor pulse, muted kick and rim clicks, hazy synth beds, and a steady low-end throb; verse rides sparse with whispered close-mic lines, pre-chorus opens with filtered arps and rising noise, chorus lands on a roomy half-time lift with a chantable hook and short vocal doubles. Vinyl crackle, reverse swells, and tiny bell sparks bridge the sections. Dark, clean, and tactile mix with wide depth., techno, slow",
+          "prompt": "[Verse 1]\\n朝まだき\\n木の匂い\\n指にのこる\\n漆の艶\\n\\n川のほとり\\n乾く音\\nひと塗りずつ\\n息を整える\\n\\n[Pre-Chorus]\\nゆっくりでいい\\n深く沈めて\\n重ねるたびに\\n形になる\\n\\n[Chorus]\\n漆器のまちカワダ\\n漆器のまちカワダ\\n手のひらの熱で\\nひかりが生まれる\\n\\n漆器のまちカワダ\\n漆器のまちカワダ\\n黙っていても\\nここは光る\\n\\n[Verse 2]\\n夜の工房\\n戸を閉めて\\n黒い面に\\n月を映す\\n\\n欠けたとこも\\n抱きしめて\\nまた次の色\\n塗り足してく\\n\\n[Pre-Chorus]\\nゆっくりでいい\\n深く沈めて\\n重ねるたびに\\n強くなる\\n\\n[Chorus]\\n漆器のまちカワダ\\n漆器のまちカワダ\\n手のひらの熱で\\nひかりが生まれる\\n\\n漆器のまちカワダ\\n漆器のまちカワダ\\n黙っていても\\nここは光る\\n\\n[Bridge]\\n遠くへ行っても\\n戻ってくる\\nこの手の記憶\\n消えはしない\\n\\n[Final Chorus]\\n漆器のまちカワダ\\n漆器のまちカワダ\\n手のひらの熱で\\nひかりが生まれる\\n\\n漆器のまちカワダ\\n漆器のまちカワダ\\n重ねた時間が\\nここに残る",
+          "gpt_description_prompt": "漆器のまちカワダ,slow techno",
+          "type": "gen",
+          "duration": 216.52,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          },
+          "is_mumble": false
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "avatar_image/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-04-24T10:33:04.943Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "techno, slow techno, minimal techno",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 1,
+        "action_config": {
+          "actions": [
+            {
+              "action_type": "add_to_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "like_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "share_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "dislike_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "report_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remove_from_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_extend",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_cover",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_reuse_style",
+              "disabled": false,
+              "visible": true
+            }
+          ]
+        }
+      },
+      "relative_index": 6
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "漆器のまちカワダ",
+        "play_count": 1,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "is_verified": false,
+        "id": "986f8840-adb3-4a44-8b3f-9fc1581604c0",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "audio/986f8840-adb3-4a44-8b3f-9fc1581604c0.mp3",
+        "image_url": "image/image_986f8840-adb3-4a44-8b3f-9fc1581604c0.jpeg",
+        "image_large_url": "image_large/image_large_986f8840-adb3-4a44-8b3f-9fc1581604c0.jpeg",
+        "major_model_version": "v5.5",
+        "model_name": "chirp-fenix",
+        "metadata": {
+          "tags": "Slow techno with a patient four-on-the-floor pulse, muted kick and rim clicks, hazy synth beds, and a steady low-end throb; verse rides sparse with whispered close-mic lines, pre-chorus opens with filtered arps and rising noise, chorus lands on a roomy half-time lift with a chantable hook and short vocal doubles. Vinyl crackle, reverse swells, and tiny bell sparks bridge the sections. Dark, clean, and tactile mix with wide depth., techno, slow",
+          "prompt": "[Verse 1]\\n朝まだき\\n木の匂い\\n指にのこる\\n漆の艶\\n\\n川のほとり\\n乾く音\\nひと塗りずつ\\n息を整える\\n\\n[Pre-Chorus]\\nゆっくりでいい\\n深く沈めて\\n重ねるたびに\\n形になる\\n\\n[Chorus]\\n漆器のまちカワダ\\n漆器のまちカワダ\\n手のひらの熱で\\nひかりが生まれる\\n\\n漆器のまちカワダ\\n漆器のまちカワダ\\n黙っていても\\nここは光る\\n\\n[Verse 2]\\n夜の工房\\n戸を閉めて\\n黒い面に\\n月を映す\\n\\n欠けたとこも\\n抱きしめて\\nまた次の色\\n塗り足してく\\n\\n[Pre-Chorus]\\nゆっくりでいい\\n深く沈めて\\n重ねるたびに\\n強くなる\\n\\n[Chorus]\\n漆器のまちカワダ\\n漆器のまちカワダ\\n手のひらの熱で\\nひかりが生まれる\\n\\n漆器のまちカワダ\\n漆器のまちカワダ\\n黙っていても\\nここは光る\\n\\n[Bridge]\\n遠くへ行っても\\n戻ってくる\\nこの手の記憶\\n消えはしない\\n\\n[Final Chorus]\\n漆器のまちカワダ\\n漆器のまちカワダ\\n手のひらの熱で\\nひかりが生まれる\\n\\n漆器のまちカワダ\\n漆器のまちカワダ\\n重ねた時間が\\nここに残る",
+          "gpt_description_prompt": "漆器のまちカワダ,slow techno",
+          "type": "gen",
+          "duration": 202.04,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          },
+          "is_mumble": false
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "avatar_image/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-04-24T10:33:04.943Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "techno, slow techno, minimal techno",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 0,
+        "action_config": {
+          "actions": [
+            {
+              "action_type": "add_to_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "like_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "share_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "dislike_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "report_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remove_from_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_extend",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_cover",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_reuse_style",
+              "disabled": false,
+              "visible": true
+            }
+          ]
+        }
+      },
+      "relative_index": 7
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "恐竜王国フクイ",
+        "play_count": 1,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "is_verified": false,
+        "id": "2df3db48-5ac5-45ab-92e1-6d06f05dc337",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "audio/2df3db48-5ac5-45ab-92e1-6d06f05dc337.mp3",
+        "image_url": "image/image_2df3db48-5ac5-45ab-92e1-6d06f05dc337.jpeg",
+        "image_large_url": "image_large/image_large_2df3db48-5ac5-45ab-92e1-6d06f05dc337.jpeg",
+        "major_model_version": "v5.5",
+        "model_name": "chirp-fenix",
+        "metadata": {
+          "tags": "Slow techno with a steady four-on-the-floor pulse, delayed clap accents, and a rubbery acid bassline; intro opens on distant fossil-room ambience and a single tom pattern, verse section keeps it stripped to kick, sub, and ticking hi-hats, then the main loop slowly layers warped synth stabs and filtered arps; break strips to hand percussion and a pulsing drone before the final lift. Breathless, close-mic texture on a few chopped vocal-like shouts, tape hiss swells, reverse cymbal turns, and a glossy, cavernous low end., slow, techno",
+          "prompt": "[Instrumental]",
+          "gpt_description_prompt": "恐竜王国フクイ,slow techno",
+          "type": "gen",
+          "duration": 32.32,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          },
+          "is_mumble": false
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "avatar_image/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-04-24T10:25:52.609Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "slow techno, acid techno, electronic dance music (EDM)",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 1,
+        "action_config": {
+          "actions": [
+            {
+              "action_type": "add_to_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "like_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "share_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "dislike_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "report_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remove_from_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_extend",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_cover",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_reuse_style",
+              "disabled": false,
+              "visible": true
+            }
+          ]
+        }
+      },
+      "relative_index": 8
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "恐竜王国フクイ",
+        "play_count": 1,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "is_verified": false,
+        "id": "bcf9b102-da5e-4c62-813b-0b67f3e10621",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "audio/bcf9b102-da5e-4c62-813b-0b67f3e10621.mp3",
+        "image_url": "image/image_bcf9b102-da5e-4c62-813b-0b67f3e10621.jpeg",
+        "image_large_url": "image_large/image_large_bcf9b102-da5e-4c62-813b-0b67f3e10621.jpeg",
+        "major_model_version": "v5.5",
+        "model_name": "chirp-fenix",
+        "metadata": {
+          "tags": "Slow techno with a steady four-on-the-floor pulse, delayed clap accents, and a rubbery acid bassline; intro opens on distant fossil-room ambience and a single tom pattern, verse section keeps it stripped to kick, sub, and ticking hi-hats, then the main loop slowly layers warped synth stabs and filtered arps; break strips to hand percussion and a pulsing drone before the final lift. Breathless, close-mic texture on a few chopped vocal-like shouts, tape hiss swells, reverse cymbal turns, and a glossy, cavernous low end., slow, techno",
+          "prompt": "[Instrumental]",
+          "gpt_description_prompt": "恐竜王国フクイ,slow techno",
+          "type": "gen",
+          "duration": 259.44,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          },
+          "is_mumble": false
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "avatar_image/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-04-24T10:25:52.609Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "slow techno, acid techno, electronic dance music (EDM)",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 0,
+        "action_config": {
+          "actions": [
+            {
+              "action_type": "add_to_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "like_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "share_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "dislike_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "report_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remove_from_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_extend",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_cover",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_reuse_style",
+              "disabled": false,
+              "visible": true
+            }
+          ]
+        }
+      },
+      "relative_index": 9
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "ミカタゴコ",
+        "play_count": 1,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "is_verified": false,
+        "id": "ef200afb-6d8b-480f-bd57-749f19a20de9",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "audio/ef200afb-6d8b-480f-bd57-749f19a20de9.mp3",
+        "image_url": "image/image_ef200afb-6d8b-480f-bd57-749f19a20de9.jpeg",
+        "image_large_url": "image_large/image_large_ef200afb-6d8b-480f-bd57-749f19a20de9.jpeg",
+        "major_model_version": "v5.5",
+        "model_name": "chirp-fenix",
+        "metadata": {
+          "tags": "Slow techno with a restrained 118 BPM pulse, rubbery kick and ticking hat grid; verse rides sparse bass and a distant synth blur, pre-chorus opens with filtered noise and rising echoes, chorus drops into a wider four-on-the-floor with a repeating vocal mantra. Breath-close lead vocal with doubled hook lines, whispered ad-libs, reversed swells, and a glossy nocturnal mix with deep sub and clean top-end., slow, techno",
+          "prompt": "[Verse 1]\\nねえ、ここで待ってる\\n傘の先、しずくが数える\\nミカタゴコで\\nきみの名前を呼ぶ\\n\\n濡れた袖のまま\\n改札の外まで\\n少しだけ近づいて\\nまだ言えないこと\\n\\n[Pre-Chorus]\\n一歩ずつ\\nまた一歩ずつ\\nほどける夜を\\nほどいていく\\n\\n[Chorus]\\nミカタゴコ\\nミカタゴコ\\nきみのそばで\\n息をしてる\\n\\nミカタゴコ\\nミカタゴコ\\nこのままで\\n消えないで\\n\\n[Verse 2]\\nポケットの奥で\\n丸めたままの言葉\\nすれ違うたびに\\n熱だけ残る\\n\\n遠回りでもいい\\nきみの歩幅でいい\\n遅い鼓動のまま\\nここに戻って\\n\\n[Pre-Chorus]\\n一歩ずつ\\nまた一歩ずつ\\nほどける夜を\\nほどいていく\\n\\n[Chorus]\\nミカタゴコ\\nミカタゴコ\\nきみのそばで\\n息をしてる\\n\\nミカタゴコ\\nミカタゴコ\\nこのままで\\n消えないで\\n\\n[Bridge]\\nねえ\\n名前をひとつ\\n小さく灯して\\n\\n近くて遠い\\nそのあいだで\\n\\n[Final Chorus]\\nミカタゴコ\\nミカタゴコ\\nきみのそばで\\n息をしてる\\n\\nミカタゴコ\\nミカタゴコ\\nこのままで\\n消えないで",
+          "gpt_description_prompt": "ミカタゴコ,slow techno",
+          "type": "gen",
+          "duration": 213.48,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          },
+          "is_mumble": false
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "avatar_image/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-04-24T10:25:43.087Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "slow techno, techno, electronic",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 1,
+        "action_config": {
+          "actions": [
+            {
+              "action_type": "add_to_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "like_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "share_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "dislike_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "report_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remove_from_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_extend",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_cover",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_reuse_style",
+              "disabled": false,
+              "visible": true
+            }
+          ]
+        }
+      },
+      "relative_index": 10
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "ミカタゴコ",
+        "play_count": 1,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "is_verified": false,
+        "id": "e061c9cf-269a-431d-9193-7de8583f99c7",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "audio/e061c9cf-269a-431d-9193-7de8583f99c7.mp3",
+        "image_url": "image/image_e061c9cf-269a-431d-9193-7de8583f99c7.jpeg",
+        "image_large_url": "image_large/image_large_e061c9cf-269a-431d-9193-7de8583f99c7.jpeg",
+        "major_model_version": "v5.5",
+        "model_name": "chirp-fenix",
+        "metadata": {
+          "tags": "Slow techno with a restrained 118 BPM pulse, rubbery kick and ticking hat grid; verse rides sparse bass and a distant synth blur, pre-chorus opens with filtered noise and rising echoes, chorus drops into a wider four-on-the-floor with a repeating vocal mantra. Breath-close lead vocal with doubled hook lines, whispered ad-libs, reversed swells, and a glossy nocturnal mix with deep sub and clean top-end., slow, techno",
+          "prompt": "[Verse 1]\\nねえ、ここで待ってる\\n傘の先、しずくが数える\\nミカタゴコで\\nきみの名前を呼ぶ\\n\\n濡れた袖のまま\\n改札の外まで\\n少しだけ近づいて\\nまだ言えないこと\\n\\n[Pre-Chorus]\\n一歩ずつ\\nまた一歩ずつ\\nほどける夜を\\nほどいていく\\n\\n[Chorus]\\nミカタゴコ\\nミカタゴコ\\nきみのそばで\\n息をしてる\\n\\nミカタゴコ\\nミカタゴコ\\nこのままで\\n消えないで\\n\\n[Verse 2]\\nポケットの奥で\\n丸めたままの言葉\\nすれ違うたびに\\n熱だけ残る\\n\\n遠回りでもいい\\nきみの歩幅でいい\\n遅い鼓動のまま\\nここに戻って\\n\\n[Pre-Chorus]\\n一歩ずつ\\nまた一歩ずつ\\nほどける夜を\\nほどいていく\\n\\n[Chorus]\\nミカタゴコ\\nミカタゴコ\\nきみのそばで\\n息をしてる\\n\\nミカタゴコ\\nミカタゴコ\\nこのままで\\n消えないで\\n\\n[Bridge]\\nねえ\\n名前をひとつ\\n小さく灯して\\n\\n近くて遠い\\nそのあいだで\\n\\n[Final Chorus]\\nミカタゴコ\\nミカタゴコ\\nきみのそばで\\n息をしてる\\n\\nミカタゴコ\\nミカタゴコ\\nこのままで\\n消えないで",
+          "gpt_description_prompt": "ミカタゴコ,slow techno",
+          "type": "gen",
+          "duration": 252.72,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          },
+          "is_mumble": false
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "avatar_image/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-04-24T10:25:43.087Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "slow techno, techno, electronic",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 0,
+        "action_config": {
+          "actions": [
+            {
+              "action_type": "add_to_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "like_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "share_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "dislike_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "report_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remove_from_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_extend",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_cover",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_reuse_style",
+              "disabled": false,
+              "visible": true
+            }
+          ]
+        }
+      },
+      "relative_index": 11
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "レイボーライン",
+        "play_count": 1,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "is_verified": false,
+        "id": "3938ea69-7d41-49de-8c4f-5daaab87fe07",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "audio/3938ea69-7d41-49de-8c4f-5daaab87fe07.mp3",
+        "image_url": "image/image_3938ea69-7d41-49de-8c4f-5daaab87fe07.jpeg",
+        "image_large_url": "image_large/image_large_3938ea69-7d41-49de-8c4f-5daaab87fe07.jpeg",
+        "major_model_version": "v5.5",
+        "model_name": "chirp-fenix",
+        "metadata": {
+          "tags": "Slow techno with a restrained four-on-the-floor pulse, tight kick and muted clap, verses riding a dry bass pulse and clipped synth ticks; pre-chorus opens with filtered noise sweeps and a widening pad; chorus lands with a round lead stab, stacked vocal doubles, and short delay throws on the anchor phrase. Whispery close-mic verses, airy harmonies in the lift, glossy but shadowed mix with subtle tape grit and reverse swells between sections., techno, slow",
+          "prompt": "[Verse 1]\\n薄い窓に　朝がにじむ\\n指先だけ　まだ冷たい\\n曲がったままの　白い糸\\nほどけないで　胸に残る\\n\\n駅のホーム　濡れた靴\\n無言のまま　見送った日\\nポケットの中　小さな石\\n握るたびに　痛みが鳴る\\n\\n[Pre-Chorus]\\nねえ　もう少し\\nここにいて\\n息をそろえたら\\n消えないで\\n\\n遠くで揺れる\\nあの合図\\n触れたら戻れない\\nその境目へ\\n\\n[Chorus]\\nレイボーライン\\nこえていく\\nレイボーライン\\n夜を割って\\n\\nレイボーライン\\nまだ見える\\nレイボーライン\\nここにいる\\n\\n[Verse 2]\\n水たまりに　映る顔\\n少しだけ　知らない目\\n言えなかった　ひとことが\\n舌の先で　ほどけそう\\n\\n古い電話　鳴らないまま\\n秒針だけが　先に行く\\n置き去りの影　長く伸びて\\n昨日のままで　立っている\\n\\n[Pre-Chorus]\\nねえ　もう少し\\nこっちへ来て\\nためらいの音を\\n越えてみて\\n\\n遠くで光る\\nあの合図\\n触れたら変わる\\nその境目へ\\n\\n[Chorus]\\nレイボーライン\\nこえていく\\nレイボーライン\\n夜を割って\\n\\nレイボーライン\\nまだ見える\\nレイボーライン\\nここにいる\\n\\n[Bridge]\\nほどけた夢の\\nすきまから\\n名前を呼ぶよ\\n小さく\\n\\n迷うたび\\n思い出す\\nあの日のままの\\n赤い線\\n\\n[Final Chorus]\\nレイボーライン\\nこえていく\\nレイボーライン\\n夜を割って\\n\\nレイボーライン\\nまだ見える\\nレイボーライン\\nここにいる\\n\\nレイボーライン\\n手をのばす\\nレイボーライン\\n朝へ行く",
+          "gpt_description_prompt": "レイボーライン,slow techno",
+          "type": "gen",
+          "duration": 234.68,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          },
+          "is_mumble": false
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "avatar_image/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-04-24T10:25:38.122Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 1,
+        "action_config": {
+          "actions": [
+            {
+              "action_type": "add_to_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "like_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "share_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "dislike_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "report_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remove_from_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_extend",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_cover",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_reuse_style",
+              "disabled": false,
+              "visible": true
+            }
+          ]
+        }
+      },
+      "relative_index": 12
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "レイボーライン",
+        "play_count": 1,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "is_verified": false,
+        "id": "33dd7282-9f45-42ca-ba3e-7cb1340689a8",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "audio/33dd7282-9f45-42ca-ba3e-7cb1340689a8.mp3",
+        "image_url": "image/image_33dd7282-9f45-42ca-ba3e-7cb1340689a8.jpeg",
+        "image_large_url": "image_large/image_large_33dd7282-9f45-42ca-ba3e-7cb1340689a8.jpeg",
+        "major_model_version": "v5.5",
+        "model_name": "chirp-fenix",
+        "metadata": {
+          "tags": "Slow techno with a restrained four-on-the-floor pulse, tight kick and muted clap, verses riding a dry bass pulse and clipped synth ticks; pre-chorus opens with filtered noise sweeps and a widening pad; chorus lands with a round lead stab, stacked vocal doubles, and short delay throws on the anchor phrase. Whispery close-mic verses, airy harmonies in the lift, glossy but shadowed mix with subtle tape grit and reverse swells between sections., techno, slow",
+          "prompt": "[Verse 1]\\n薄い窓に　朝がにじむ\\n指先だけ　まだ冷たい\\n曲がったままの　白い糸\\nほどけないで　胸に残る\\n\\n駅のホーム　濡れた靴\\n無言のまま　見送った日\\nポケットの中　小さな石\\n握るたびに　痛みが鳴る\\n\\n[Pre-Chorus]\\nねえ　もう少し\\nここにいて\\n息をそろえたら\\n消えないで\\n\\n遠くで揺れる\\nあの合図\\n触れたら戻れない\\nその境目へ\\n\\n[Chorus]\\nレイボーライン\\nこえていく\\nレイボーライン\\n夜を割って\\n\\nレイボーライン\\nまだ見える\\nレイボーライン\\nここにいる\\n\\n[Verse 2]\\n水たまりに　映る顔\\n少しだけ　知らない目\\n言えなかった　ひとことが\\n舌の先で　ほどけそう\\n\\n古い電話　鳴らないまま\\n秒針だけが　先に行く\\n置き去りの影　長く伸びて\\n昨日のままで　立っている\\n\\n[Pre-Chorus]\\nねえ　もう少し\\nこっちへ来て\\nためらいの音を\\n越えてみて\\n\\n遠くで光る\\nあの合図\\n触れたら変わる\\nその境目へ\\n\\n[Chorus]\\nレイボーライン\\nこえていく\\nレイボーライン\\n夜を割って\\n\\nレイボーライン\\nまだ見える\\nレイボーライン\\nここにいる\\n\\n[Bridge]\\nほどけた夢の\\nすきまから\\n名前を呼ぶよ\\n小さく\\n\\n迷うたび\\n思い出す\\nあの日のままの\\n赤い線\\n\\n[Final Chorus]\\nレイボーライン\\nこえていく\\nレイボーライン\\n夜を割って\\n\\nレイボーライン\\nまだ見える\\nレイボーライン\\nここにいる\\n\\nレイボーライン\\n手をのばす\\nレイボーライン\\n朝へ行く",
+          "gpt_description_prompt": "レイボーライン,slow techno",
+          "type": "gen",
+          "duration": 243.36,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          },
+          "is_mumble": false
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "avatar_image/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-04-24T10:25:38.122Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 0,
+        "action_config": {
+          "actions": [
+            {
+              "action_type": "add_to_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "like_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "share_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "dislike_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "report_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remove_from_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_extend",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_cover",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_reuse_style",
+              "disabled": false,
+              "visible": true
+            }
+          ]
+        }
+      },
+      "relative_index": 13
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "朝倉氏遺跡",
+        "play_count": 1,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "is_verified": false,
+        "id": "42017aea-1dce-4a69-8436-ae4ca5c0ffe2",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "audio/42017aea-1dce-4a69-8436-ae4ca5c0ffe2.mp3",
+        "image_url": "image/image_42017aea-1dce-4a69-8436-ae4ca5c0ffe2.jpeg",
+        "image_large_url": "image_large/image_large_42017aea-1dce-4a69-8436-ae4ca5c0ffe2.jpeg",
+        "major_model_version": "v5.5",
+        "model_name": "chirp-fenix",
+        "metadata": {
+          "tags": "Slow techno with a restrained four-on-the-floor pulse and a late-night pulse at 96 BPM; verse rides sparse kick, brushed hats, and a low foggy synth drone, pre-chorus opens with filtered arpeggios and rising noise, chorus lands with a wider bass line and clipped vocal doubles. Breathy close-mic lead, occasional whispered ad-libs, delayed chant echoes on the hook. Vinyl crackle, reverse swells, and glassy chimes between phrases. Dark, crisp, spacious mix with a cold stone texture., slow, techno",
+          "prompt": "[Verse 1]\\n土の匂いがする\\n朝の霧の奥\\n崩れた石の影\\n足音だけが残る\\n\\n静かな堀の水\\n指で触れたみたい\\n遠い日の声が\\n耳のふちをなぞる\\n\\n[Pre-Chorus]\\n名前を呼ぶたび\\nここに戻る\\n眠った時間が\\nゆっくりほどける\\n\\n[Chorus]\\n朝倉氏遺跡\\nここにいる\\n朝倉氏遺跡\\nまだ消えない\\n石の記憶に\\n手をのばす\\n朝倉氏遺跡\\nここにいる\\n\\n[Verse 2]\\n草の先を揺らす\\n風が通り抜ける\\n欠けた瓦の端\\n夕陽を返してる\\n\\n見上げた空の下\\n昔と今が重なる\\nひとつの足跡が\\n明日へ続いてく\\n\\n[Pre-Chorus]\\n名前を呼ぶたび\\n胸が熱い\\n眠った時間が\\nゆっくりほどける\\n\\n[Chorus]\\n朝倉氏遺跡\\nここにいる\\n朝倉氏遺跡\\nまだ消えない\\n石の記憶に\\n手をのばす\\n朝倉氏遺跡\\nここにいる\\n\\n[Bridge]\\n声にならないまま\\n守られてきた場所\\n風の中の祈りが\\n今も息をする\\n\\n[Final Chorus]\\n朝倉氏遺跡\\nここにいる\\n朝倉氏遺跡\\nまだ消えない\\n土の記憶に\\n手をのばす\\n朝倉氏遺跡\\nここにいる",
+          "gpt_description_prompt": "朝倉氏遺跡（アサクラシイセキ）,slow techno",
+          "type": "gen",
+          "duration": 257.8,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          },
+          "is_mumble": false
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "avatar_image/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-04-24T10:25:21.455Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "slow techno, minimal techno, dark electronic",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 1,
+        "action_config": {
+          "actions": [
+            {
+              "action_type": "add_to_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "like_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "share_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "dislike_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "report_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remove_from_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_extend",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_cover",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_reuse_style",
+              "disabled": false,
+              "visible": true
+            }
+          ]
+        }
+      },
+      "relative_index": 14
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "朝倉氏遺跡",
+        "play_count": 1,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "is_verified": false,
+        "id": "86b6ad95-71f8-4bbf-b611-11337b356c36",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "audio/86b6ad95-71f8-4bbf-b611-11337b356c36.mp3",
+        "image_url": "image/image_86b6ad95-71f8-4bbf-b611-11337b356c36.jpeg",
+        "image_large_url": "image_large/image_large_86b6ad95-71f8-4bbf-b611-11337b356c36.jpeg",
+        "major_model_version": "v5.5",
+        "model_name": "chirp-fenix",
+        "metadata": {
+          "tags": "Slow techno with a restrained four-on-the-floor pulse and a late-night pulse at 96 BPM; verse rides sparse kick, brushed hats, and a low foggy synth drone, pre-chorus opens with filtered arpeggios and rising noise, chorus lands with a wider bass line and clipped vocal doubles. Breathy close-mic lead, occasional whispered ad-libs, delayed chant echoes on the hook. Vinyl crackle, reverse swells, and glassy chimes between phrases. Dark, crisp, spacious mix with a cold stone texture., slow, techno",
+          "prompt": "[Verse 1]\\n土の匂いがする\\n朝の霧の奥\\n崩れた石の影\\n足音だけが残る\\n\\n静かな堀の水\\n指で触れたみたい\\n遠い日の声が\\n耳のふちをなぞる\\n\\n[Pre-Chorus]\\n名前を呼ぶたび\\nここに戻る\\n眠った時間が\\nゆっくりほどける\\n\\n[Chorus]\\n朝倉氏遺跡\\nここにいる\\n朝倉氏遺跡\\nまだ消えない\\n石の記憶に\\n手をのばす\\n朝倉氏遺跡\\nここにいる\\n\\n[Verse 2]\\n草の先を揺らす\\n風が通り抜ける\\n欠けた瓦の端\\n夕陽を返してる\\n\\n見上げた空の下\\n昔と今が重なる\\nひとつの足跡が\\n明日へ続いてく\\n\\n[Pre-Chorus]\\n名前を呼ぶたび\\n胸が熱い\\n眠った時間が\\nゆっくりほどける\\n\\n[Chorus]\\n朝倉氏遺跡\\nここにいる\\n朝倉氏遺跡\\nまだ消えない\\n石の記憶に\\n手をのばす\\n朝倉氏遺跡\\nここにいる\\n\\n[Bridge]\\n声にならないまま\\n守られてきた場所\\n風の中の祈りが\\n今も息をする\\n\\n[Final Chorus]\\n朝倉氏遺跡\\nここにいる\\n朝倉氏遺跡\\nまだ消えない\\n土の記憶に\\n手をのばす\\n朝倉氏遺跡\\nここにいる",
+          "gpt_description_prompt": "朝倉氏遺跡（アサクラシイセキ）,slow techno",
+          "type": "gen",
+          "duration": 263.56,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          },
+          "is_mumble": false
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "avatar_image/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-04-24T10:25:21.455Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "slow techno, minimal techno, dark electronic",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 0,
+        "action_config": {
+          "actions": [
+            {
+              "action_type": "add_to_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "like_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "share_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "dislike_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "report_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remove_from_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_extend",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_cover",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_reuse_style",
+              "disabled": false,
+              "visible": true
+            }
+          ]
+        }
+      },
+      "relative_index": 15
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "エイヘイジ",
+        "play_count": 2,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "is_verified": false,
+        "id": "ae202a51-f06b-4ac2-b8f9-d1b55835cb69",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "audio/ae202a51-f06b-4ac2-b8f9-d1b55835cb69.mp3",
+        "image_url": "image/image_ae202a51-f06b-4ac2-b8f9-d1b55835cb69.jpeg",
+        "image_large_url": "image_large/image_large_ae202a51-f06b-4ac2-b8f9-d1b55835cb69.jpeg",
+        "major_model_version": "v5.5",
+        "model_name": "chirp-fenix",
+        "metadata": {
+          "tags": "Slow techno with a steady half-time pulse, rubbery kick and dry clap; verse rides on sparse pulse bass and clipped synth stabs, pre-chorus opens with filtered noise and a rising pad, chorus drops into a chanty hook with stacked doubles and short delay throws on the key phrase. Ear candy: reversed swells into each transition, tiny arpeggio ticks between lines, sub bloom on the final chorus. Mix is dark, spacious, and clean with a hypnotic low-end focus., slow, techno",
+          "prompt": "[Verse 1]\\n深い朝の角で\\n君はまだ眠そう\\n濡れた歩道みたいに\\n言葉がゆっくり落ちる\\n\\n手のひらの熱\\n少しだけ残して\\nひとつずつ確かめる\\n今日の速度で\\n\\n[Pre-Chorus]\\n急がなくていい\\nまだほどけるよ\\n近づくたび\\n輪郭が見える\\n\\n[Chorus]\\nエイヘイジ\\nエイヘイジ\\nゆっくりでいい\\nエイヘイジ\\nエイヘイジ\\nここまで来て\\n\\n(エイヘイジ)\\n(エイヘイジ)\\n\\n[Verse 2]\\n駅の端のベンチ\\n缶のぬくもり\\n見上げた空の色\\n少しずつ変わる\\n\\n君のそのままが\\nいちばん強いから\\n無理に速くしないで\\nそのまま進め\\n\\n[Pre-Chorus]\\n急がなくていい\\nまだほどけるよ\\n名前を呼べば\\n夜もやわらぐ\\n\\n[Chorus]\\nエイヘイジ\\nエイヘイジ\\nゆっくりでいい\\nエイヘイジ\\nエイヘイジ\\nここまで来て\\n\\n(エイヘイジ)\\n(エイヘイジ)\\n\\n[Bridge]\\n遠回りでも\\nちゃんと届く\\nずっと同じじゃない\\nでも消えない\\n\\nひと息ごとに\\n少しずつ\\n君の歩幅で\\nまた始めよう\\n\\n[Chorus]\\nエイヘイジ\\nエイヘイジ\\nゆっくりでいい\\nエイヘイジ\\nエイヘイジ\\nここまで来て\\n\\n(エイヘイジ)\\n(エイヘイジ)",
+          "gpt_description_prompt": "エイヘイジ,slow techno",
+          "type": "gen",
+          "duration": 253.32,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          },
+          "is_mumble": false
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "avatar_image/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-04-24T10:25:00.691Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "slow techno, hypnotic electronic, minimal techno",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 1,
+        "action_config": {
+          "actions": [
+            {
+              "action_type": "add_to_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "like_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "share_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "dislike_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "report_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remove_from_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_extend",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_cover",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_reuse_style",
+              "disabled": false,
+              "visible": true
+            }
+          ]
+        }
+      },
+      "relative_index": 16
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "エイヘイジ",
+        "play_count": 2,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "is_verified": false,
+        "id": "aa75f1f3-d621-44e5-9436-0d368da1af8e",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "audio/aa75f1f3-d621-44e5-9436-0d368da1af8e.mp3",
+        "image_url": "image/image_aa75f1f3-d621-44e5-9436-0d368da1af8e.jpeg",
+        "image_large_url": "image_large/image_large_aa75f1f3-d621-44e5-9436-0d368da1af8e.jpeg",
+        "major_model_version": "v5.5",
+        "model_name": "chirp-fenix",
+        "metadata": {
+          "tags": "Slow techno with a steady half-time pulse, rubbery kick and dry clap; verse rides on sparse pulse bass and clipped synth stabs, pre-chorus opens with filtered noise and a rising pad, chorus drops into a chanty hook with stacked doubles and short delay throws on the key phrase. Ear candy: reversed swells into each transition, tiny arpeggio ticks between lines, sub bloom on the final chorus. Mix is dark, spacious, and clean with a hypnotic low-end focus., slow, techno",
+          "prompt": "[Verse 1]\\n深い朝の角で\\n君はまだ眠そう\\n濡れた歩道みたいに\\n言葉がゆっくり落ちる\\n\\n手のひらの熱\\n少しだけ残して\\nひとつずつ確かめる\\n今日の速度で\\n\\n[Pre-Chorus]\\n急がなくていい\\nまだほどけるよ\\n近づくたび\\n輪郭が見える\\n\\n[Chorus]\\nエイヘイジ\\nエイヘイジ\\nゆっくりでいい\\nエイヘイジ\\nエイヘイジ\\nここまで来て\\n\\n(エイヘイジ)\\n(エイヘイジ)\\n\\n[Verse 2]\\n駅の端のベンチ\\n缶のぬくもり\\n見上げた空の色\\n少しずつ変わる\\n\\n君のそのままが\\nいちばん強いから\\n無理に速くしないで\\nそのまま進め\\n\\n[Pre-Chorus]\\n急がなくていい\\nまだほどけるよ\\n名前を呼べば\\n夜もやわらぐ\\n\\n[Chorus]\\nエイヘイジ\\nエイヘイジ\\nゆっくりでいい\\nエイヘイジ\\nエイヘイジ\\nここまで来て\\n\\n(エイヘイジ)\\n(エイヘイジ)\\n\\n[Bridge]\\n遠回りでも\\nちゃんと届く\\nずっと同じじゃない\\nでも消えない\\n\\nひと息ごとに\\n少しずつ\\n君の歩幅で\\nまた始めよう\\n\\n[Chorus]\\nエイヘイジ\\nエイヘイジ\\nゆっくりでいい\\nエイヘイジ\\nエイヘイジ\\nここまで来て\\n\\n(エイヘイジ)\\n(エイヘイジ)",
+          "gpt_description_prompt": "エイヘイジ,slow techno",
+          "type": "gen",
+          "duration": 243.64,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          },
+          "is_mumble": false
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "avatar_image/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-04-24T10:25:00.691Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "slow techno, hypnotic electronic, minimal techno",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 0,
+        "action_config": {
+          "actions": [
+            {
+              "action_type": "add_to_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "like_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "share_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "dislike_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "report_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remove_from_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_extend",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_cover",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_reuse_style",
+              "disabled": false,
+              "visible": true
+            }
+          ]
+        }
+      },
+      "relative_index": 17
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "トウジンボウ",
+        "play_count": 2,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "is_verified": false,
+        "id": "82757469-b5e8-40b6-9d74-933feeb4361a",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "audio/82757469-b5e8-40b6-9d74-933feeb4361a.mp3",
+        "image_url": "image/image_82757469-b5e8-40b6-9d74-933feeb4361a.jpeg",
+        "image_large_url": "image_large/image_large_82757469-b5e8-40b6-9d74-933feeb4361a.jpeg",
+        "major_model_version": "v5.5",
+        "model_name": "chirp-fenix",
+        "metadata": {
+          "tags": "Slow techno with a patient 4-on-the-floor pulse, muted kick thud, and clipped offbeat hats; verse-like sections stay sparse with a rolling bass pulse and distant metal ticks, then a pre-drop layer adds filtered noise and a low drone before the main loop opens wider. Thin vocal-chop textures are treated like percussion, with reversed swells between phrases and a long reverb tail on transitions. Dark, hypnotic, intimate mix with a clean low end and soft tape grit., slow, techno",
+          "prompt": "[Instrumental]",
+          "gpt_description_prompt": "トウジンボウ,slow techno",
+          "type": "gen",
+          "duration": 479.4,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          },
+          "is_mumble": false
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "avatar_image/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-04-24T10:24:57.663Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "techno, dark electro, hypnotic minimalism",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 1,
+        "action_config": {
+          "actions": [
+            {
+              "action_type": "add_to_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "like_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "share_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "dislike_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "report_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remove_from_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_extend",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_cover",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_reuse_style",
+              "disabled": false,
+              "visible": true
+            }
+          ]
+        }
+      },
+      "relative_index": 18
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "トウジンボウ",
+        "play_count": 2,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "is_verified": false,
+        "id": "07908f89-9d22-45ee-8f8a-5b9d56a462b4",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "audio/07908f89-9d22-45ee-8f8a-5b9d56a462b4.mp3",
+        "image_url": "image/image_07908f89-9d22-45ee-8f8a-5b9d56a462b4.jpeg",
+        "image_large_url": "image_large/image_large_07908f89-9d22-45ee-8f8a-5b9d56a462b4.jpeg",
+        "major_model_version": "v5.5",
+        "model_name": "chirp-fenix",
+        "metadata": {
+          "tags": "Slow techno with a patient 4-on-the-floor pulse, muted kick thud, and clipped offbeat hats; verse-like sections stay sparse with a rolling bass pulse and distant metal ticks, then a pre-drop layer adds filtered noise and a low drone before the main loop opens wider. Thin vocal-chop textures are treated like percussion, with reversed swells between phrases and a long reverb tail on transitions. Dark, hypnotic, intimate mix with a clean low end and soft tape grit., slow, techno",
+          "prompt": "[Instrumental]",
+          "gpt_description_prompt": "トウジンボウ,slow techno",
+          "type": "gen",
+          "duration": 479.4,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          },
+          "is_mumble": false
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "avatar_image/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-04-24T10:24:57.662Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "techno, dark electro, hypnotic minimalism",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 0,
+        "action_config": {
+          "actions": [
+            {
+              "action_type": "add_to_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "like_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "share_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "dislike_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "report_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remove_from_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_extend",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_cover",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_reuse_style",
+              "disabled": false,
+              "visible": true
+            }
+          ]
+        }
+      },
+      "relative_index": 19
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "メガネのまち",
+        "play_count": 1,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "is_verified": false,
+        "id": "68d559d0-99c0-4fb9-a09f-bf6b7c39495d",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "audio/68d559d0-99c0-4fb9-a09f-bf6b7c39495d.mp3",
+        "image_url": "image/image_68d559d0-99c0-4fb9-a09f-bf6b7c39495d.jpeg",
+        "image_large_url": "image_large/image_large_68d559d0-99c0-4fb9-a09f-bf6b7c39495d.jpeg",
+        "major_model_version": "v5.5",
+        "model_name": "chirp-fenix",
+        "metadata": {
+          "tags": "Slow techno with a steady 118 BPM pulse, rubbery kick and ticking hat pattern; verse rides sparse and hypnotic with a single synth motif, pre-chorus opens with filtered noise and a rising pad, chorus lands wider with a bent bass hook and handclap accents. Close-mic male vocals with tight doubles, a few whispered echoes on the hook, delay throws on key lines. Glassy bell flickers, reverse swells, and a soft sidechain breathe between phrases. Clean, glossy, and nocturnal., techno, slow",
+          "prompt": "[Verse 1]\\n駅前の\\n眼鏡ケース\\nきみの指先\\n曇った午後\\n\\nアーケードを\\nぬけるたび\\nフレーム越しに\\n目が合うよ\\n\\n古い橋の\\n風の中\\nレンズに映る\\nサバエの街\\n\\n[Pre-Chorus]\\n近づいて\\n遠ざかって\\nまた重なる\\n影と影\\n\\n息を止めて\\nもう一回\\n名前を呼ぶ\\nその前に\\n\\n[Chorus]\\nメガネのまちサバエ\\nメガネのまちサバエ\\nきみの横顔\\nずっと見てたい\\n\\nメガネのまちサバエ\\nメガネのまちサバエ\\n透明な夜に\\n光るふたり\\n\\n[Verse 2]\\n工房の灯り\\n帰り道\\nテンプルの跡\\n熱を残す\\n\\n磨いた日々が\\n手に馴染む\\nきみの沈黙\\nやさしくなる\\n\\n曇りを拭いて\\n笑うたび\\n小さな世界\\nほどけてく\\n\\n[Pre-Chorus]\\n近づいて\\n遠ざかって\\nまた重なる\\n影と影\\n\\n息を止めて\\nもう一回\\n名前を呼ぶ\\nその前に\\n\\n[Chorus]\\nメガネのまちサバエ\\nメガネのまちサバエ\\nきみの横顔\\nずっと見てたい\\n\\nメガネのまちサバエ\\nメガネのまちサバエ\\n透明な夜に\\n光るふたり\\n\\n[Bridge]\\nフレームの向こう\\n触れそうで\\n触れないまま\\n朝になる\\n\\nでも今日は\\nこのままで\\nサバエの名前を\\n胸に置く\\n\\n[Final Chorus]\\nメガネのまちサバエ\\nメガネのまちサバエ\\nきみの横顔\\nずっと見てたい\\n\\nメガネのまちサバエ\\nメガネのまちサバエ\\n透明な夜に\\n光るふたり",
+          "gpt_description_prompt": "メガネのまちサバエ,slow techno",
+          "type": "gen",
+          "duration": 213.52,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          },
+          "is_mumble": false
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "avatar_image/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-04-24T10:24:48.851Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "techno, minimal techno, nocturnal",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 1,
+        "action_config": {
+          "actions": [
+            {
+              "action_type": "add_to_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "like_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "share_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "dislike_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "report_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remove_from_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_extend",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_cover",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_reuse_style",
+              "disabled": false,
+              "visible": true
+            }
+          ]
+        }
+      },
+      "relative_index": 20
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "メガネのまち",
+        "play_count": 1,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "is_verified": false,
+        "id": "babbafab-6626-4e50-be8b-2c3437026ece",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "audio/babbafab-6626-4e50-be8b-2c3437026ece.mp3",
+        "image_url": "image/image_babbafab-6626-4e50-be8b-2c3437026ece.jpeg",
+        "image_large_url": "image_large/image_large_babbafab-6626-4e50-be8b-2c3437026ece.jpeg",
+        "major_model_version": "v5.5",
+        "model_name": "chirp-fenix",
+        "metadata": {
+          "tags": "Slow techno with a steady 118 BPM pulse, rubbery kick and ticking hat pattern; verse rides sparse and hypnotic with a single synth motif, pre-chorus opens with filtered noise and a rising pad, chorus lands wider with a bent bass hook and handclap accents. Close-mic male vocals with tight doubles, a few whispered echoes on the hook, delay throws on key lines. Glassy bell flickers, reverse swells, and a soft sidechain breathe between phrases. Clean, glossy, and nocturnal., techno, slow",
+          "prompt": "[Verse 1]\\n駅前の\\n眼鏡ケース\\nきみの指先\\n曇った午後\\n\\nアーケードを\\nぬけるたび\\nフレーム越しに\\n目が合うよ\\n\\n古い橋の\\n風の中\\nレンズに映る\\nサバエの街\\n\\n[Pre-Chorus]\\n近づいて\\n遠ざかって\\nまた重なる\\n影と影\\n\\n息を止めて\\nもう一回\\n名前を呼ぶ\\nその前に\\n\\n[Chorus]\\nメガネのまちサバエ\\nメガネのまちサバエ\\nきみの横顔\\nずっと見てたい\\n\\nメガネのまちサバエ\\nメガネのまちサバエ\\n透明な夜に\\n光るふたり\\n\\n[Verse 2]\\n工房の灯り\\n帰り道\\nテンプルの跡\\n熱を残す\\n\\n磨いた日々が\\n手に馴染む\\nきみの沈黙\\nやさしくなる\\n\\n曇りを拭いて\\n笑うたび\\n小さな世界\\nほどけてく\\n\\n[Pre-Chorus]\\n近づいて\\n遠ざかって\\nまた重なる\\n影と影\\n\\n息を止めて\\nもう一回\\n名前を呼ぶ\\nその前に\\n\\n[Chorus]\\nメガネのまちサバエ\\nメガネのまちサバエ\\nきみの横顔\\nずっと見てたい\\n\\nメガネのまちサバエ\\nメガネのまちサバエ\\n透明な夜に\\n光るふたり\\n\\n[Bridge]\\nフレームの向こう\\n触れそうで\\n触れないまま\\n朝になる\\n\\nでも今日は\\nこのままで\\nサバエの名前を\\n胸に置く\\n\\n[Final Chorus]\\nメガネのまちサバエ\\nメガネのまちサバエ\\nきみの横顔\\nずっと見てたい\\n\\nメガネのまちサバエ\\nメガネのまちサバエ\\n透明な夜に\\n光るふたり",
+          "gpt_description_prompt": "メガネのまちサバエ,slow techno",
+          "type": "gen",
+          "duration": 222.12,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          },
+          "is_mumble": false
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "avatar_image/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-04-24T10:24:48.851Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "techno, minimal techno, nocturnal",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 0,
+        "action_config": {
+          "actions": [
+            {
+              "action_type": "add_to_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "like_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "share_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "dislike_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "report_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remove_from_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_extend",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_cover",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_reuse_style",
+              "disabled": false,
+              "visible": true
+            }
+          ]
+        }
+      },
+      "relative_index": 21
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_fb053388-d70f-401e-ab8e-3f9a6b592b32.jpeg",
+  "num_total_results": 22,
+  "current_page": 1,
+  "is_owned": false,
+  "is_trashed": false,
+  "is_public": false,
+  "is_hidden": false,
+  "user_display_name": "Taisuke Fukuno",
+  "user_handle": "taisukefukuno858",
+  "user_avatar_image_url": "https://cdn1.suno.ai/sAura3.jpg",
+  "user_is_verified": false,
+  "description": "",
+  "reaction": "",
+  "upvote_count": 0,
+  "dislike_count": 0,
+  "flag_count": 0,
+  "skip_count": 0,
+  "play_count": 0,
+  "song_count": 0,
+  "total_duration": 5484.16,
+  "is_discover_playlist": false,
+  "clipIds": [
+    "fb053388-d70f-401e-ab8e-3f9a6b592b32",
+    "197793b9-03ad-459b-984e-bb042255b70c",
+    "75c0c337-fe21-4c57-965d-5d35a9b54f1c",
+    "51272bf5-dd8b-44b9-b562-cbd13c9d0e56",
+    "9fda7e62-1060-444f-9db2-46583d793c19",
+    "5a4a1990-7cbb-461e-bcbd-dc14c6b9d308",
+    "818e8a3c-c620-40ed-8d54-0a8f012deb4b",
+    "986f8840-adb3-4a44-8b3f-9fc1581604c0",
+    "2df3db48-5ac5-45ab-92e1-6d06f05dc337",
+    "bcf9b102-da5e-4c62-813b-0b67f3e10621",
+    "ef200afb-6d8b-480f-bd57-749f19a20de9",
+    "e061c9cf-269a-431d-9193-7de8583f99c7",
+    "3938ea69-7d41-49de-8c4f-5daaab87fe07",
+    "33dd7282-9f45-42ca-ba3e-7cb1340689a8",
+    "42017aea-1dce-4a69-8436-ae4ca5c0ffe2",
+    "86b6ad95-71f8-4bbf-b611-11337b356c36",
+    "ae202a51-f06b-4ac2-b8f9-d1b55835cb69",
+    "aa75f1f3-d621-44e5-9436-0d368da1af8e",
+    "82757469-b5e8-40b6-9d74-933feeb4361a",
+    "07908f89-9d22-45ee-8f8a-5b9d56a462b4",
+    "68d559d0-99c0-4fb9-a09f-bf6b7c39495d",
+    "babbafab-6626-4e50-be8b-2c3437026ece"
+  ]
+}
